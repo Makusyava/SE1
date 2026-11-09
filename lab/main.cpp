@@ -1,4 +1,5 @@
 // This program is just an example one under VCS.
+// Author: Ярослав, П-162
 #include <iostream>
 using namespace std;
 
